@@ -1,0 +1,167 @@
+ADRELIA Project
+
+NAME OF COURSE / UNIVERSITY: BSc. Data Science & Artificial Intelligence Christ (Deemed To Be University), Delhi NCR.
+
+CONNECTING PEOPLE ACROSS LANGUAGES
+USING AI
+Real-Time Voice Detection & Translation for Social Harmony and Accessibility
+
+PRESENTED BY: Shubhashish Garimella (24215225) Avichal Trivedi (24215206) Neer Dwivedi (24215217)
+
+PRESENTED TO: Dr. Shilpa Shrivastava
+
+Agenda
+
+03 Introduction & Background
+
+04 Problem Statement
+
+05
+
+Real-Life Scenarios (Observed Personally)
+
+06 Proposed Solution (Core Idea)
+
+07
+
+How the System Works (High-Level Flow)
+
+08 Technology Stack (Conceptual)
+
+09 Key Innovations / Novelty
+
+10
+
+Social Impact & Use Cases
+
+11
+
+Conclusion & Future Scope
+
+Introduction & Background
+
+India has 22+ official languages and hundreds of regional dialects South Indian states (Kannada, Tamil, Telugu, Malayalam) interact daily with Hindi-speaking populations
+Language gaps lead to:
+
+#1
+Miscommunication
+
+#2
+Social Friction
+
+Similar challenges exist globally in tourism, migration, and public services Technology today is powerful, yet human communication gaps persist
+
+#3
+Daily inconvenience
+
+03/10
+
+01 Language barriers cause: Frustration and misunderstanding Delays in essential services Social resentment
+02 Existing translation apps: Work after a sentence is completed Are not real-time Are not accessible to everyone Are poorly adopted and marketed
+03 No widely deployed system enables: Continuous, real-time Two-way Spoken communication across languages
+
+04/10
+Problem Statement
+This is a problem that we both have personally
+experienced and have done ground research about the need of the
+same.
+Our parents expressed the same problems
+being faced by them.
+
+05/10
+Real-Life Scenarios (Observed Personally)
+Auto / cab drivers and passengers unable to communicate Migrants struggling with local authorities Hospitals facing language issues during emergencies Police stations handling non-local citizens Tourists confused, anxious, or exploited due to language gaps Public speeches and events losing impact due to language mismatch
+
+Proposed Solution (Core Idea)
+AI-powered real-time voice translation system
+Translates word-by-word as speech is uttered, not after completion
+Enables users to: 1. Speak naturally in their own language 2. Be understood instantly in another
+language
+Designed to work in: 1. Public infrastructure 2. Transport 3. Offices 4. Tourism and healthcare
+Built for mass accessibility, not niche users
+
+06/10
+
+How the System Works (High-Level Flow) 07/10
+Pipeline is subject to change/improve*
+
+1
+
+2
+
+3
+
+User speaks Smart
+
+AI performs
+
+in their native microphone instant
+
+language
+
+captures live speech-to-
+
+audio
+
+text
+
+4
+
+5
+
+Language is Context-
+
+detected
+
+aware
+
+automatically translation
+
+occurs in real
+
+time
+
+6
+
+7
+
+Translated Process runs
+
+speech is
+
+continuously,
+
+played
+
+not sentence-
+
+immediately wise
+
+to the listener
+
+Key Innovations / Novelty
+Word-level, real-time translation (not sentence-based) Handles different grammatical structures across languages
+Automatic language detection (no manual selection) Context-aware translation (cab, hospital, office, tourism)
+Environment-based solution, not just a mobile app Scalable toward multi-modal AI systems
+
+08/10
+
+Social Impact & Use Cases
+Bridges gaps between locals and migrants Improves public service efficiency Reduces conflicts caused by miscommunication Makes cities more inclusive and welcoming
+Key Indian use cases: 1. Public transport 2. Government offices 3. Hospitals 4. Universities 5. Police stations
+Strong potential in global tourism ecosystems
+
+09/10
+
+Conclusion & Future Scope
+LANGUAGE SHOULD NEVER BE A BARRIER IN A DIVERSE WORLD
+AI CAN BE USED TO UNITE PEOPLE, NOT DIVIDE THEM
+THIS PROJECT EXPLORES: 1.ADVANCED SPEECH AI 2.REAL-TIME SYSTEMS 3.SOCIALLY IMPACTFUL TECHNOLOGY
+FUTURE SCOPE: 1.SMART CITIES INTEGRATION 2.WEARABLES AND KIOSKS 3.MORE LANGUAGES & DIALECTS 4.FULL MULTI-MODAL AI PLATFORMS
+A FOUNDATIONAL STEP TOWARD ADRELIA'S VISION AS AI SOLUTION PROVIDERS
+
+10/10
+
+Thank you !
+
+

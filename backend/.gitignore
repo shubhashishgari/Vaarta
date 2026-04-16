@@ -1,0 +1,11 @@
+# Environment / Secrets
+.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Personal vocabulary (generated at runtime)
+vocabulary/personal.json

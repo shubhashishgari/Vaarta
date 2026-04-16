@@ -1,0 +1,84 @@
+# ============================================
+# Vaarta - Root .gitignore
+# ============================================
+
+# ---------- Secrets / Environment ----------
+.env
+*.env
+.env.*
+!.env.example
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+.venv/
+venv/
+env/
+
+# Whisper model cache (downloaded on first run)
+.cache/
+
+# ---------- Node.js ----------
+node_modules/
+package-lock.json
+
+# ---------- Flutter / Dart ----------
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins-dependencies
+frontend/.pub-cache/
+frontend/.pub/
+frontend/.packages
+frontend/pubspec.lock
+
+# ---------- Android ----------
+frontend/android/local.properties
+frontend/android/.gradle/
+frontend/android/app/debug/
+frontend/android/app/profile/
+frontend/android/app/release/
+*.keystore
+*.jks
+
+# ---------- iOS ----------
+frontend/ios/Pods/
+frontend/ios/.symlinks/
+frontend/ios/Flutter/Flutter.framework
+frontend/ios/Flutter/Flutter.podspec
+
+# ---------- Windows / macOS / Linux ----------
+frontend/windows/flutter/ephemeral/
+frontend/macos/Flutter/ephemeral/
+frontend/linux/flutter/ephemeral/
+
+# ---------- IDE ----------
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.atom/
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# ---------- Report generation artifacts ----------
+report_unpacked/
+generate_diary.js
+generate_report.js
+
+# ---------- Misc ----------
+*.log
+*.cache.dill.track.dill

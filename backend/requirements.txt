@@ -1,0 +1,30 @@
+# Vaarta backend dependencies
+# Install with: pip install -r requirements.txt
+
+# Web server
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# Speech-to-Text
+faster-whisper
+numpy
+
+# Gender detection (used by stt._detect_gender — gracefully falls back if missing)
+librosa
+
+# Translation
+deep-translator
+
+# Text-to-Speech
+gtts
+elevenlabs
+
+# Networking
+websockets
+
+# NOTE: pyaudio is intentionally NOT listed here.
+# stt.py wraps its import in try/except — it's only needed for the
+# standalone local-mic test path, not the FastAPI server which
+# receives audio from the phone over WebSocket.
